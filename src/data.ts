@@ -384,7 +384,7 @@ export const quizData: Question[] = [
     options: [
       "Lidhin paisjen me internetin lokal.",
       "Nxisin shpenzimet e fshehta tek vizitorët e rinj.",
-      "U ofrojnë udhëzues vizualë të porsaardhurve në mënyrë që të mësojnë the platformën fillestare.",
+      "U ofrojnë udhëzues vizualë të porsaardhurve në mënyrë që të mësojnë platformën fillestare.",
       "Zhvlerësojnë testimet vizuale."
     ],
     correctAnswerIndex: 2,
@@ -437,7 +437,7 @@ export const quizData: Question[] = [
       "Zhvilluesit theksojnë preferencat e tyre artistike personale mbi çdo gjë tjetër.",
       "Buxheti i projektit cakton pamjen perfundimtare pa asnjë testim publik.",
       "Aplikacioni fokusohet kryekëput në thellimin e kuptuarit të nevojave, qëllimeve, frustrimeve dhe preferencave të përdoruesve qysh në fillim.",
-      "Serverat dhe performanca the back-end kanë 99% të rëndësisë krahasuar me vetë ekranin grafik."
+      "Serverat dhe performanca back-end kanë 99% të rëndësisë krahasuar me vetë ekranin grafik."
     ],
     correctAnswerIndex: 2,
     explanation: "Procesi nis dhe e mbron përdoruesin si orientim bazë për thellimin e nevojave reale të aplikacionit tonë.",
@@ -475,7 +475,7 @@ export const quizData: Question[] = [
     options: [
       "Bllokojnë aksesin e rreptë përdoruesve tjerë e ashtuquajturave hakerave.",
       "Përmes formave të vendosjes se te dhënave në fushata teksti ose permes kutive te shënimit dhe listat opsion rënëse të zgjedhjes (input e checkboxes).",
-      "Të detyrojnë pajisjen fizikisht të hapet per the fshirë dokumente pa kërkuar konfirmime.",
+      "Të detyrojnë pajisjen fizikisht të hapet për të fshirë dokumente pa kërkuar konfirmime.",
       "Sigurojnë lidhjen grafike midis ngjyrave dhe ngjyrimeve gradient te dritave te hardware."
     ],
     correctAnswerIndex: 1,
@@ -487,17 +487,17 @@ export const quizData: Question[] = [
     text: "Për funksionimin e 'Modeleve Sociale' mund të themi se qëllimi tyre qendror është:",
     options: [
       "Te mbikqyrë vizualisht sytë dhe kamerat jashtme te njerëzve pandërprerë.",
-      "Te ndalojnë interaktimin mbas 2 orësh ne lojera the video elektronike.",
+      "Te ndalojnë interaktimin mbas 2 orësh në lojëra video elektronike.",
       "Tu japin përdoruesve vizitor të platformave mundesinë unike e direkte për tu lidhur e për të ndërvepruar në real kohë me njeri-tjetrin brenda nje ndërfaqeje.",
       "Te ofroje pagesa qeveritare nga platformat e rrepta boterore elektronike."
     ],
     correctAnswerIndex: 2,
-    explanation: "Ato synojnë thellimin the angazhimin e ndërveprimeve midis përdoruesve (rrjetizimin) brenda rrjetit aplikacion.",
+    explanation: "Ato synojnë thellimin e angazhimit e ndërveprimeve midis përdoruesve (rrjetizimin) brenda rrjetit aplikacion.",
     tip: "Modele Sociale = Bashkim e Lidhje Mes Përdoruesve."
   },
   {
     id: 39,
-    text: "Për Mjetin grafik 'Adobe XD' si the Figma, cila veçanti theksohet në material?",
+    text: "Për Mjetin grafik 'Adobe XD' dhe Figma, cila veçanti theksohet në material?",
     options: [
       "Ndërtimi nga inxhinjerët të database backend të huaja masive.",
       "Lejon dizajnerët të krijojnë vizualisht wireframes, prototipe skicuese me interaktivitet të lartë dhe besueshmëri vizuale.",
@@ -510,145 +510,145 @@ export const quizData: Question[] = [
   },
   {
     id: 40,
-    text: "Në listën e Metrikave per matjen UX, *Shkalla e gabimit* zbulon dhe mat specifikisht:",
+    text: "Në listën e metrikave për matjen UX, çfarë mat specifikisht *shkalla e gabimit*?",
     options: [
-      "Përmasat fizike të dritës se ekranit te matura në inç.",
-      "Saktësin e gramatikës ne formen programimit the shkrimtar the kodues te software.",
-      "Numrin e dështimeve dhe shmangiet e gabuara apo klikimet që njerëzit e rendomë benë teksa provuan e u përpoqën të kompletonin detyrat në ndërfaqe.",
-      "Një numer thellesisht abstrakt qe fshin diskun hardware tjetrit nga rrjetet mbikqyrëse."
+      "Përmasat fizike të dritës së ekranit, të matura në inç.",
+      "Saktësinë gramatikore të kodit ose të tekstit në program.",
+      "Numrin e gabimeve, klikimeve të pasakta ose dështimeve që bëjnë përdoruesit gjatë kryerjes së detyrave në ndërfaqe.",
+      "Një numër abstrakt që tregon sa shpesh fshihet disku i pajisjes."
     ],
     correctAnswerIndex: 2,
-    explanation: "Sa më i vogel the thellesisht fiks i ulet numri gabimeve, of the UI aq më intuitiv vlerësohet funksioni rrjedhës i dizajnit tonë.",
-    tip: "Shkalla Gabimit = Numërimi dështimeve/gabimeve te Vizitorit."
+    explanation: "Sa më i ulët të jetë numri i gabimeve gjatë përdorimit, aq më intuitive dhe më e përdorshme konsiderohet ndërfaqja.",
+    tip: "Shkalla e gabimit = numërimi i dështimeve ose veprimeve të gabuara të përdoruesit."
   },
   {
     id: 41,
-    text: "Për çfarë shërbejnë 'Anketat e Kënaqësisë' si mjet gjatë matjeve UX the testimeve?",
+    text: "Për çfarë shërbejnë 'Anketat e Kënaqësisë' si mjet gjatë matjeve dhe testimeve UX?",
     options: [
-      "Si formular pagese dhe rimbursuese për testuesit vullnetare.",
-      "Ndihmojn të vleresojn qe të nxjerrin dhe të mbledhin opinionet e drejtpërdrejtë dhe komentet subjektive nga vete përdoruesit human rreth ndjesisë se tyre pozitive negative the mbi ndërfaqen.",
-      "Gjejne e të tregojn the si punon drita në serverin harduerik jush the.",
-      "Mbledhin vizualisht shkronjat e faqes dhe theksin fonetik the pa u kundershtuar nga askush."
+      "Si formular pagese ose rimbursimi për testuesit vullnetarë.",
+      "Për të mbledhur opinionet, komentet dhe ndjesitë subjektive të përdoruesve rreth ndërfaqes.",
+      "Për të treguar si punon drita në serverin harduerik.",
+      "Për të mbledhur shkronjat e faqes dhe theksin fonetik të përdoruesve."
     ],
     correctAnswerIndex: 1,
-    explanation: "Nqs matmet UX empirike numeruan kohen, kjo thenie anketore e vlereson the thellon emocionin subjektiv pozitiv a negativ te pjestarëve eksperimental.",
-    tip: "Anketa e Kënaqësisë = Matja e Opinionit dhe Ndjesisë Së Përdoruesit."
+    explanation: "Ndryshe nga metrikat numerike, anketat matin përjetimin subjektiv: sa të kënaqur, të qetë ose të frustruar ndihen përdoruesit.",
+    tip: "Anketa e kënaqësisë = matja e opinionit dhe ndjesisë së përdoruesit."
   },
   {
     id: 42,
-    text: "Një rregull qendror i 'Vëzhgimit Efektiv' te testeve UX eshte 'Qëndrimi Objektiv'. Kjo nxit vëzhguesin të:",
+    text: "Në testet UX, çfarë nënkupton rregulli i 'Qëndrimit Objektiv' gjatë vëzhgimit?",
     options: [
-      "Ti tregojë drejt logjikisht zgjidhjen pyetësve menjëherë porsa ata hutohen pa pritur asnjë çast ngurimi.",
-      "Të jetë i qetë vizuale dhe qëndrojë i fokusuar asnjanës e të shmanget thellësisht ndaj çfarëdo ndërhyrje nxitëse ose thellësisht ndikuese mbi sjelljen e pavarur gjatë testit.",
-      "Gjeje dhe ndaloje lojen e lire testuese the nderhyje hardware me dhunë virtuale.",
-      "Zhdukje të pamjes se ekranit dhe sistemit mbikqyrës."
+      "T'i tregosh menjëherë pjesëmarrësit zgjidhjen sa herë që hutohet.",
+      "Të qëndrosh neutral, i qetë dhe të shmangësh ndërhyrjet që mund të ndikojnë sjelljen natyrale të pjesëmarrësit.",
+      "Të ndalosh testin dhe të ndërhysh teknikisht sa herë që përdoruesi bën gabim.",
+      "Të fikësh ekranin dhe sistemin e vëzhgimit."
     ],
     correctAnswerIndex: 1,
-    explanation: "Nese Vëzhguesi theksisht jep hints (ndihmesa the orientime thellësore), rezultati natyral UI dhe thellësia e vlerësimit do të shtrembërohej tërësisht.",
-    tip: "Qëndro Objektiv = Mos Ndërhy dhe Mos i Mëso Vizitorit si ta zgjidhë testin."
+    explanation: "Nëse vëzhguesi jep sugjerime ose orientime, rezultati i testit shtrembërohet dhe nuk pasqyron sjelljen reale të përdoruesit.",
+    tip: "Qëndro objektiv = mos ndërhy dhe mos ia mëso përdoruesit zgjidhjen."
   },
   {
     id: 43,
-    text: "Si adresohet termi logjik 'Kuantifikimi apo rregulli i Përcaktimi të Sasisë së Të Dhënave' gjatë fundit of fazes analisis UX?",
+    text: "Si përdoret kuantifikimi gjatë fazës së analizës së të dhënave në UX?",
     options: [
-      "Do te thote thellim the kthim numerik i dhenave te marrjes of the the vrojtimeve të cilësisë he the sjelljes, në shifra llogaritese e absolute me sasi numerike the për te identifikuar në përqindje e thellesisht statistikisht modelet e tendencat e përdorimit.",
-      "Kundershton saktësin e matjeve the vargjet e qarte dritat the vizitor jush tjetrit e.",
-      "Pamundeson the thellësisht The printimin me vizuale te letres ui hardware ui the tjetrit.. rrotull the e",
-      "Mbyll rrotull The the e testin UI The rrotull the qete e nuk the lejon të the fillosh ui the The kundershtues ui the the The UI ui . The the e the The jush ui tjetrit.. ui e"
+      "Të dhënat cilësore, si vëzhgimet dhe sjelljet e përdoruesve, kthehen në shifra të matshme për të identifikuar modele, përqindje dhe tendenca përdorimi.",
+      "Kuantifikimi e kundërshton saktësinë e matjeve dhe nuk përdoret në analizë.",
+      "Kuantifikimi shërben vetëm për printimin e dokumenteve të testimit.",
+      "Kuantifikimi mbyll testin dhe nuk lejon fillimin e analizës."
     ],
     correctAnswerIndex: 0,
-    explanation: "Ju thellësisht i ktheni dhenat cilësore si the ankesat dhe gabimet në the vlerë The the statistikore (Sasi / Kuatifikim) the per ti the thellësuar.",
-    tip: "Percaktoni Sasinë (Kuantifikimi) = Jepi Shifra të Numërueshme dhe Kritikё."
+    explanation: "Kuantifikimi ndihmon që komente, gabime ose sjellje të vëzhguara të kthehen në vlera statistikore të krahasueshme.",
+    tip: "Kuantifikimi = kthimi i të dhënave në shifra të numërueshme."
   },
   {
     id: 44,
-    text: "Roli parësor i zgjidhjes the thelluar of 'Privatësisë e Sigurisë' ne UX the inkurajon the the zhvilluesit të zbatojnë The the rregull rrotull the the?",
+    text: "Çfarë i inkurajon zhvilluesit të zbatojnë trajtimi i thelluar i 'Privatësisë dhe Sigurisë' në UX?",
     options: [
-      "Te the i fshijnë vazhdimisht The pa kuptuar hakerat thellësisht harrimin e dokumenteve the the rrotull e",
-      "Strategji the thellësisht mbajtës the mbrojtjes e the si Enkriptimi the the i the dhënave , the thendur ndërtimin me kontrolle të bazuara tek the AKSESI dhe the dizajn i qartë transparent që i lejon the përdoruesve the thellësisht mbajtjen vet të kontrollit the absolute the tyre personal. the The",
-      "Vetëm the heqjen vizual të ngjyrave The the fshehte logjike rrotull e the the the faqa the the dritave rrotull e tjetrit The ",
-      "Fsheh kodet masivisht dhe bllokon jush the tjetrit aksesueshmërin the ndertimit UI the nga njerezit UI The qarte logjike e The jush the tjetrit u the . the "
+      "Fshirjen e vazhdueshme të dokumenteve pa dijeninë e përdoruesit.",
+      "Strategji mbrojtëse si enkriptimi i të dhënave, kontrollet e aksesit dhe dizajni transparent që i jep përdoruesit kontroll mbi të dhënat personale.",
+      "Vetëm ndryshimin e ngjyrave vizuale të faqes.",
+      "Fshehjen e kodit dhe bllokimin e aksesueshmërisë për përdoruesit."
     ],
     correctAnswerIndex: 1,
-    explanation: "The the të dhenat The the mbrohen fuqishëm me kripografi, dhe ui kundershtues ti japim përdoruesve lirinë the vizibilisht (Enkriptimi+Aksesi).",
-    tip: "Privatësia zgjidhet me = Enkriptime & Kontroll nga Përdoruesi the."
+    explanation: "Privatësia dhe siguria në UX kërkojnë mbrojtje teknike, transparencë dhe kontroll të qartë për përdoruesin.",
+    tip: "Privatësia = enkriptim, kontroll aksesi dhe kontroll nga përdoruesi."
   },
   {
     id: 45,
-    text: "Fenomeni social i njohur si 'Ndarja Digjitale' perfaqeson the mundësitë The e the pabarabarta që vjen the The nga:",
+    text: "Çfarë përfaqëson fenomeni social i njohur si 'Ndarja Digjitale'?",
     options: [
-      "Bashkimi the i rrjeteve UI hakerave e te e hapur hardware kundershtimit ui rrotull e The u rrotull e the the..The the The ",
-      "Zhdukja ui kundershtimit e rrjeteve the the u te vizualisht The rrotull ngjyres UI the e hardware the jush rrotull The tjetrit e tjetrit u  ",
-      "Akses i the thellësisht kufizuar apo mungesa fare e aksesit drejt tekonlogjisë bazike the internetit për shkak të gjendjes dhe hendekut ekonmik apo the infrastrukture teknologjike the dobët of shtete të varfëra The . e the kundershtues ui e e ",
-      "Fakti the kundershtimit vizual i kompjuterat mbyljen jush e dritat the vete u rrota the botes the e tjetrit the kundershtues jush "
+      "Bashkimin e rrjeteve të hapura për qëllime sulmesh kibernetike.",
+      "Zhdukjen e rrjeteve dhe ngjyrave nga ndërfaqet grafike.",
+      "Pabarazinë në aksesin ndaj teknologjisë bazike dhe internetit për shkak të gjendjes ekonomike ose infrastrukturës së dobët.",
+      "Faktin që kompjuterët mbyllen vetë në fund të ditës."
     ],
     correctAnswerIndex: 2,
-    explanation: "Thellimi i varfërisë e dhe infrastrukturës shkakton një ndarje ekstreme dixhitale mes gjendjeve of njerëzve the the the the.",
-    tip: "Ndarja The Digjitale The = Pabarazi në Akses teknologjik the & internet."
+    explanation: "Ndarja digjitale lidhet me pabarazinë mes njerëzve ose komuniteteve që kanë akses në teknologji dhe atyre që nuk kanë.",
+    tip: "Ndarja digjitale = pabarazi në akses teknologjik dhe internet."
   },
   {
     id: 46,
-    text: "Si the the the the do ta the percaktoni diferencen bashkëkohore the thelluara të konceptit the The Artificial Intelligence (AI the ) the The dhe Machine Learning The (ML the ) the Mësimit të Makinerive The the the?",
+    text: "Si dallojnë konceptet Artificial Intelligence (AI) dhe Machine Learning (ML)?",
     options: [
-      "AI zhduk vargjet e jush dhenat the ui e the internet The the tjetrit hakerave the the hardware mbyllur tjetrit kundershtimit ui logjike , udhezues tjetrit UI The the ML the asgje tjeter the e the u tjetrit UI e rrotull e.. the e",
-      "AI the the the është koncepit umbrella madhe që zhvillon platforma e asisto the mbledh makinës ndaj detyrave the The logjike qe jush The the kerkojnë inteligjencë human, ndërsa The the ML u stërvit logjikën me anë të procesimit The te 'Të Nxënit the nga grupe te të The Dhënave massive' the the the me the The kohen. e ui u the the The the e",
-      "ML zevendeson faturen drejt the grafike e the kompjuterat the the server AI the The the u The rrotull jush shton gabime tjetrit ui ui e hakerat ui the.. The rrotull ui The",
-      "Kundershtojne ui njëri the e tjetrin The kundershtimit The e the the pa UI u the dhene kundershtues jush drejt ui rrotull e the The e jush the kompjuter UI the the kundershtues The jush rrotull The e the "
+      "AI zhduk të dhënat nga interneti, ndërsa ML nuk ka rol të veçantë.",
+      "AI është koncepti më i gjerë i sistemeve që kryejnë detyra që kërkojnë inteligjencë, ndërsa ML është një nënfushë ku modelet mësojnë nga të dhënat.",
+      "ML zëvendëson vetëm grafikën e kompjuterit, ndërsa AI merret vetëm me serverë.",
+      "AI dhe ML janë koncepte që e kundërshtojnë plotësisht njëri-tjetrin."
     ],
     correctAnswerIndex: 1,
-    explanation: "The the AI the mbart synimin e gjerë of human like inteligjenc.. the ML the bazohet tek trajnimi the dhe The nxënia The nga of the Të Dhënat The . e u the ",
-    tip: "ML (The Makineria) = Modeli që The Mëson The nga the Të Dhënat The dhënies Sëtyre. e"
+    explanation: "AI përfshin synimin e përgjithshëm për të imituar aftësi inteligjente, ndërsa ML fokusohet në trajnimin e modeleve nga të dhënat.",
+    tip: "ML = modeli që mëson nga të dhënat; AI = fusha më e gjerë."
   },
   {
     id: 47,
-    text: "Koncepti 'Llogaritja e Kudondodhur (Ubiquitous Computing)' tregon the the the:",
+    text: "Çfarë tregon koncepti 'Llogaritja e Kudondodhur' (Ubiquitous Computing)?",
     options: [
-      "Sistemi e e The tjetrit kundershtimit rrotull ui fshehet e UI e UI the hapur e tjetrit dhe u UI prish dritave jush ui rrotull e e e UI UI the e logjike The tjetrit tjetrit the The the tjetrit The ui e the tjetrit . UI ",
-      "Komjutera qe ui e kundershtues rrotull ui UI ndezin e jush dëshmitare UI the tjetrit the the hardware kundershtues vetem rrotull dritare tjetrit naten u The the ui kundershtues jush e tjetrit the UI the rrotull jush e ui jush kundershtues the e rrotull the jush the e.. ui",
-      "Gjithçka The ui jush rrotull dhe teknologjia the the kompjuterike bëhet gjithmonë the e padukshme the The inkuadruar në rrënjë të the jetës The Përditshme, kudo përmes sendeve të rëndomta përreth nesh the. tjetrit e . jush e e tjetrit The jush rrerja The ui rrotull e e rrotull tjetrit e The the the jush ",
-      "Fakti the UI kundershtues jush tjetrit se UI The nuk The u the tjetrit UI ui mbajm e UI kundershtues rrotull rrotull jush e the pajisje kundershtues e mbyllura the tjetrit kundershtues ne rrotull the dritare tjetrit jush the the The UI ui the e.. UI ui the e jush u tjetrit UI rrotull e the the kundershtues"
+      "Një sistem që prish qëllimisht ndërfaqen dhe fsheh funksionet kryesore.",
+      "Kompjuterë që ndizen vetëm natën dhe nuk lidhen me përdoruesin.",
+      "Teknologjia kompjuterike bëhet gjithnjë e më e padukshme dhe integrohet në objektet e jetës së përditshme përreth nesh.",
+      "Fakti që përdoruesit nuk duhet të përdorin pajisje të lidhura."
     ],
     correctAnswerIndex: 2,
-    explanation: "Teknologjia the the e fshihet pamje the The dhe rreshqet feshutas në inxhinierin The the The e cdo rëndomti the The send The jetw Përditshme the e jush the the .",
-    tip: "Kudondodhur = Teknologi E fshehur the the e gershetuar Ne Mjedis Përditshme The . e"
+    explanation: "Në llogaritjen e kudondodhur, teknologjia nuk shfaqet vetëm si kompjuter klasik, por ndërthuret në mjedisin dhe objektet e përditshme.",
+    tip: "Kudondodhur = teknologji e fshehur dhe e integruar në mjedisin e përditshëm."
   },
   {
     id: 48,
-    text: "Si udhëzohemi të the thellësisht identifikojmë rrezikun The e lidhur më 'Internetit të the Gjërave (IoT the)' The the the the the?",
+    text: "Cili është një rrezik i rëndësishëm që lidhet me Internetin e Gjërave (IoT)?",
     options: [
-      "Asgjë rrotull the jush e The perball rrezik the The the hakerave the the rrotull . The the ui jush The jush e The ui the kundershtimit The rrotull the The the e jush e rrotull " ,
-      "Zhdukje e The the kompjuter hakerat The kundershtues kundershtues e the jush kundershtues rrotull.. The the The jush the e The rrotull The ",
-      "Vetëm the e rrjetat jush the the kompjuter the mbyllin mbyllur The rrotull e the ui e kundershtues u UI The hardware e jush rrotull u the tjetrit The u kundershtimit The kundershtues kundershtues e the jush rrotull e e the the.. u the The",
-      "Krijimi The i the rrezikut the the të humbjes se lartë The of the Privatësisë dhe The krijimi the the i një mbikëqyrjes e Survejimit The The 24-orësh e fshehtë the të përditshmërisë se jush njerëzve the jush The the e The the the rrotull the e.. the jush the rrotull u the the u ui kundershtues u tjetrit u"
+      "Nuk paraqet asnjë rrezik për përdoruesit ose privatësinë.",
+      "Zhduk automatikisht kompjuterët dhe pajisjet nga rrjeti.",
+      "Mbyll vetëm rrjetet lokale pa prekur të dhënat personale.",
+      "Mund të krijojë rrezik për humbje privatësie dhe mbikëqyrje të vazhdueshme përmes pajisjeve e sensorëve të lidhur."
     ],
     correctAnswerIndex: 3,
-    explanation: "The the IoT The shkrin cdo the jush sensor shtëpie the The gje the The qe lejon surveillance the the mbikqyrje the thellë 24 oresh the jush the e The e .",
-    tip: "Rreziku jush i IoT = Survejimi  Dhe Humbje e Privatësisë jush . ui e"
+    explanation: "Pajisjet IoT mbledhin shumë të dhëna nga mjedisi dhe jeta e përditshme, prandaj keqpërdorimi i tyre mund të çojë në survejim dhe cenim privatësie.",
+    tip: "Rreziku i IoT = survejim dhe humbje privatësie."
   },
   {
     id: 49,
-    text: "Një nga rregullat e tjetrit etike dhe the The Përgjegjësisë the the Sociale the The the në The dizajn êshtë the The ui tjetrit jush kundershtues kundershtimit e ?",
+    text: "Cili është një rregull etik dhe i përgjegjësisë sociale në dizajn?",
     options: [
-      "Bërja e The aplikacioneve the The kompjuterike dhe The the sa the The më The te fshehta dhe The the dhe abuzuese e kundershtues the The uj The e ui tjetrit ui kundershtues The jush rrodhi u the the e.. the jush kundershtues the the UI tjetrit ui the e rrotull e",
-      "Ofrimi i një dizajni të qartë the the the cili mbeshtetet ne Etike The parandalon jush dëmtimet e njeriut the Psikologjike the The fizike the the the dhe jush the i ofron The një ndërfaqe të ndershme e inclusive The pa the Paragjykime algoritmike the THE the jush kundershtues tjetrit The The tjetrit e The",
-      "Fshirja UI the ui the e i u UI kundershtues ui the e dhenave the The tjetrit u the e dritare the uj hakerat The rrotull e tjetrit e ui kundershtues jush tjetrit u the the ui jush .. the kundershtues jush u the The rrotull The rrotull the ui tjetrit ui the ui e ",
-      "Gjykimi the ui jush i the u UI hapur the kundershtues ui e the mbeshtetja ui UI e tjetrit ui e rrotull vizitorit the the e kompjuter kundershtimit u the u the The rrotull UI the rrotull jush kundershtues e dritave jush the the the u e.. ui The rrotull the ui UI the u the kundershtues jush e"
+      "Të bëhen aplikacionet sa më të fshehta, manipuluese dhe abuzuese.",
+      "Të ofrohet një dizajn i qartë, i ndershëm dhe gjithëpërfshirës, që shmang dëmtimin psikologjik ose fizik dhe redukton paragjykimet algoritmike.",
+      "Të fshihen të dhënat pa paralajmërim dhe pa lejen e përdoruesit.",
+      "Të gjykohet përdoruesi dhe të kufizohet qasja e tij pa arsye."
     ],
     correctAnswerIndex: 1,
-    explanation: "Do te the the the the the the the the jepet the the the The nderfaqe e qartë the që jush parandalon abuzimin psikologjik (Dark patterns) e rrotull moral parandalon The UI rrotull drejta demtimet the UI qartë e rrotull per u ta the The bere the aplikacionin human jush e per UI të gjithë njerëzit The tjetrit The.. e The",
-    tip: "Etika UI UX jush The = Parandalo tjetrit Dëmtimet the dhe The Ofroni The Ndërfaqe jush mbeshtetja Te Drejta The e tjetrit e ."
+    explanation: "Dizajni etik shmang manipulimin, dark patterns, diskriminimin dhe dëmtimin e përdoruesve.",
+    tip: "Etika në UX = parandalim dëmi, drejtësi dhe gjithëpërfshirje."
   },
   {
     id: 50,
-    text: "Pse i përdorim ui dhe kundershtimit the 'Modelet e UI Hyrjes jush The the e dhe the The rrotull Përzgjedhjes tjetrit rrotull UI kundershtues the ' the the the The the the the the ?",
+    text: "Pse përdoren 'Modelet e Hyrjes dhe Përzgjedhjes' në ndërfaqe?",
     options: [
-      "Per the u jush kundershtues e rrotull llogarit the rrotull UI hakerat ui the hapur e tjetrit kompjuter e ui tjetrit the kundershtimit dritave u drita e the .. jush kundershtues e the ui the kundershtimit the The jush rrerja The",
-      "Nuk the i përdorim The kurrë ato the the the jush u The kundershtues the e The the kundershtimit tjetrit ui tjetrit the UI the UI ui jush kundershtues rrotull the... the The . e rrotull the jush ui the jush u",
-      "Per the The the e hap faqe internet pa The tjetrit hakerat The ui e fshire the jush ui the rrotull the e the kundershtues tjetrit dritare The e UI kundershtues the jush u e ui the jush.. ui the e e ",
-      "Duke u The i jush The The the vizuale ofruar drejt the The përdoruesve the the format logjike The ui the pamore ui The (si formulari The teksti the jush e The form) the tjetrit ku The ato the mund te the vendosin The rrotull the the The the të dhënat of drejt The The tjetrit the dhe tjetrit The ui te e zgjedhin the e jush the the jush opsionet The e The the listës e asaj u ui faqeje logjik The "
+      "Për të llogaritur gabime të fshehta në kompjuter.",
+      "Nuk përdoren kurrë në dizajnin e ndërfaqeve.",
+      "Për të hapur faqe interneti pa kontroll nga përdoruesi.",
+      "Për t'u ofruar përdoruesve forma pamore, si fusha teksti, formularë, kuti zgjedhjeje dhe lista, ku mund të vendosin të dhëna ose të zgjedhin opsione."
     ],
     correctAnswerIndex: 3,
-    explanation: "Modelet UI jush the logjike the the format the the dritaret i ofrojne the inpute opsione jush per ui e the e të ofruar e The the e The të that hapa e the dhenies se the text the.",
-    tip: "Hyrje/Përzgjedhje The = Formular The Tekst the & Lista tjetrit u Zgjidhës tjetrit kundershtues jush e . ui The e"
+    explanation: "Këto modele e bëjnë të qartë mënyrën se si përdoruesi fut informacion ose zgjedh mes alternativave në ndërfaqe.",
+    tip: "Hyrje/Përzgjedhje = fusha teksti, formularë dhe lista opsionesh."
   }
 ];
