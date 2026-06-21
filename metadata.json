@@ -1,0 +1,8 @@
+{
+  "name": "hci-quiz-app",
+  "description": "Educational quiz app strictly derived from Human-Computer Interaction notes, featuring dynamic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
